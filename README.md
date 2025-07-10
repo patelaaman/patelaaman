@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi 👋 , Thi$ s#de AMan Kum@r P@tel
 
+
+                                          🎓 B.Tech IT Graduate from University Institute of technology of Barkatullha , Bhopal(mp)
+                                             💻 Full Stack Developer skilled in building scalable, real-world applications
+                                               🚀 Passionate about clean code, modern tech, and impactful digital products
 <!--
 **patelaaman/patelaaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
