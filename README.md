@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 # Tech Stack & Tools🔧
 **Languages:**
-C C++ Java Python JavaScript TypeScript  HTML CSS
+`C` `C++` `Java` `Python` `JavaScript` `TypeScript`  `HTML` `CSS`
 
 **Frameworks & Libraries:**
 React Next.js Express  Tailwind CSS Axios 
