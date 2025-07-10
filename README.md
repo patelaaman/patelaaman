@@ -1,4 +1,4 @@
-## Hi 👋 , Thi$ s#de AMan Kum@r P@tel
+                                                             Hello 👋 , Thi$ s#de AMan Kum@r P@tel
 
 
                                           🎓 B.Tech IT Graduate from University Institute of technology of Barkatullha , Bhopal(mp)
