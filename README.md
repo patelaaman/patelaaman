@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Tech Stack & Tools🔧
-**Languages:**
+### Languages:
 `C` `C++` `Java` `Python` `JavaScript` `TypeScript`  `HTML` `CSS`
 
 **Frameworks & Libraries:**
